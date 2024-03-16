@@ -6,6 +6,6 @@ class Command(BaseCommand):
     help = "Add new user."
 
     def handle(self, *args, **kwargs):
-        user = User(name='Jack', email='neo@example.com', number='79005558844', address='st.Lenina 50', password='secret')
+        user = User(name='Anna', email='anna@example.com', number='79005558866', address='st.Gogolya 2', password='secret2')
         user.save()
         self.stdout.write(f'{user}')
