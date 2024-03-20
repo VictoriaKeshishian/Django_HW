@@ -1,29 +1,31 @@
-from django.shortcuts import render, get_object_or_404
-from django.utils import timezone
-from datetime import timedelta
-from .models import User, Product, Order
+from django.shortcuts import render, redirect
+from django.contrib import messages
+from .models import Product
+from .forms import ProductForm
 
 
 def index(request):
-    return render(request, 'shop/base.html')
+    return render(request, 'home.html')
 
 
-def user_orders(request, user_id, period):
-    user = get_object_or_404(User, pk=user_id)
+def data_saved(request):
+    return render(request, 'shop/data_saved.html')
 
-    end_date = timezone.now()
-    if period == 'week':
-        start_date = end_date - timedelta(days=7)
-    elif period == 'month':
-        start_date = end_date - timedelta(days=30)
-    elif period == 'year':
-        start_date = end_date - timedelta(days=365)
 
-    orders = Order.objects.filter(customer=user, date_ordered__range=(start_date, end_date)).order_by('-date_ordered')
-
-    unique_products = set()
-    for order in orders:
-        unique_products |= set(order.products.all())
-
-    return render(request, 'shop/user_orders.html',
-                  {'user': user, 'orders': orders, 'unique_products': unique_products, 'period': period})
+def edit_product(request, product_id):
+    product = Product.objects.get(id=product_id)
+    if request.method == 'POST':
+        form = ProductForm(request.POST, request.FILES)
+        if form.is_valid():
+            product.name = form.cleaned_data['name']
+            product.description = form.cleaned_data['description']
+            product.price = form.cleaned_data['price']
+            product.amount = form.cleaned_data['amount']
+            if 'image' in request.FILES:
+                product.image = request.FILES['image']
+            product.save()
+            messages.success(request, 'Данные о товаре успешно сохранены')
+            return redirect('data_saved')
+    else:
+        form = ProductForm(initial={'name': product.name, 'description': product.description, 'price': product.price, 'amount': product.amount})
+    return render(request, 'shop/edit_product.html', {'form': form})
