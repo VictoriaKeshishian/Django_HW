@@ -102,3 +102,1461 @@ INFO 2024-03-07 15:44:16,889 basehttp 9306 139678846023232 "GET / HTTP/1.1" 200 
 INFO 2024-03-07 15:44:17,323 basehttp 9306 139678846023232 "GET / HTTP/1.1" 200 823
 INFO 2024-03-07 15:44:17,788 basehttp 9306 139678846023232 "GET / HTTP/1.1" 200 823
 INFO 2024-03-07 15:44:18,200 basehttp 9306 139678846023232 "GET /about/ HTTP/1.1" 200 641
+INFO 2024-03-08 09:24:01,019 autoreload 6725 140169376497664 Watching for file changes with StatReloader
+INFO 2024-03-08 09:24:03,650 basehttp 6725 140169329161792 "GET / HTTP/1.1" 200 823
+WARNING 2024-03-08 09:24:03,745 log 6725 140169329161792 Not Found: /favicon.ico
+INFO 2024-03-08 09:24:13,712 basehttp 6725 140169329161792 "GET / HTTP/1.1" 200 823
+WARNING 2024-03-08 09:24:13,816 log 6725 140169329161792 Not Found: /favicon.ico
+INFO 2024-03-08 09:24:16,939 basehttp 6725 140169329161792 "GET / HTTP/1.1" 200 823
+INFO 2024-03-08 09:24:17,556 basehttp 6725 140169329161792 "GET /about/ HTTP/1.1" 200 641
+INFO 2024-03-08 09:24:19,476 basehttp 6725 140169329161792 "GET / HTTP/1.1" 200 823
+INFO 2024-03-08 09:39:05,070 autoreload 6725 140169376497664 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:05,316 autoreload 8114 139628222164992 Watching for file changes with StatReloader
+INFO 2024-03-08 09:39:11,452 autoreload 8114 139628222164992 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:11,692 autoreload 8139 140564740755456 Watching for file changes with StatReloader
+INFO 2024-03-08 09:39:15,837 autoreload 8139 140564740755456 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:16,100 autoreload 8163 139792389734400 Watching for file changes with StatReloader
+INFO 2024-03-08 09:39:21,231 autoreload 8163 139792389734400 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:21,462 autoreload 8181 140521569021952 Watching for file changes with StatReloader
+INFO 2024-03-08 09:39:29,646 autoreload 8181 140521569021952 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:29,866 autoreload 8218 140598971150336 Watching for file changes with StatReloader
+INFO 2024-03-08 09:39:35,001 autoreload 8218 140598971150336 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:35,260 autoreload 8242 140241120759808 Watching for file changes with StatReloader
+INFO 2024-03-08 09:39:45,403 autoreload 8242 140241120759808 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:39:45,646 autoreload 8270 140552935649280 Watching for file changes with StatReloader
+INFO 2024-03-08 09:42:01,683 autoreload 8270 140552935649280 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/apps.py changed, reloading.
+INFO 2024-03-08 09:42:01,996 autoreload 8464 139945318727680 Watching for file changes with StatReloader
+INFO 2024-03-08 09:47:18,624 autoreload 8826 139930368442368 Watching for file changes with StatReloader
+INFO 2024-03-08 09:51:56,028 autoreload 8826 139930368442368 /home/victoria/PycharmProjects/Django_seminars/myproject/myproject/settings.py changed, reloading.
+INFO 2024-03-08 09:51:56,249 autoreload 9131 140234033848320 Watching for file changes with StatReloader
+INFO 2024-03-08 09:51:58,510 basehttp 9131 140233986512448 "GET / HTTP/1.1" 200 823
+WARNING 2024-03-08 09:51:58,615 log 9131 140233986512448 Not Found: /favicon.ico
+WARNING 2024-03-08 09:52:06,915 log 9131 140233986512448 Not Found: /coin/
+WARNING 2024-03-08 09:52:06,916 basehttp 9131 140233986512448 "GET /coin/ HTTP/1.1" 404 2944
+WARNING 2024-03-08 09:52:15,682 log 9131 140233986512448 Not Found: /coin/7
+WARNING 2024-03-08 09:52:15,683 basehttp 9131 140233986512448 "GET /coin/7 HTTP/1.1" 404 2947
+INFO 2024-03-08 09:58:36,988 autoreload 9131 140234033848320 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:58:37,247 autoreload 10062 139991664214016 Watching for file changes with StatReloader
+INFO 2024-03-08 09:58:54,499 autoreload 10062 139991664214016 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:58:54,747 autoreload 10114 140066552786944 Watching for file changes with StatReloader
+INFO 2024-03-08 09:59:03,926 autoreload 10114 140066552786944 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 09:59:04,165 autoreload 10136 140305979301888 Watching for file changes with StatReloader
+INFO 2024-03-08 10:01:13,194 autoreload 10136 140305979301888 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 10:01:13,427 autoreload 10209 140073192321024 Watching for file changes with StatReloader
+INFO 2024-03-08 10:06:00,810 basehttp 10209 140073144985152 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-08 10:06:11,700 log 10209 140073144985152 Not Found: /dice/coin
+WARNING 2024-03-08 10:06:11,700 basehttp 10209 140073144985152 "GET /dice/coin HTTP/1.1" 404 2956
+INFO 2024-03-08 10:11:41,789 autoreload 10209 140073192321024 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/urls.py changed, reloading.
+INFO 2024-03-08 10:11:42,014 autoreload 10641 140096168828928 Watching for file changes with StatReloader
+INFO 2024-03-08 10:11:43,313 basehttp 10641 140096121493056 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-08 10:11:55,397 log 10641 140096121493056 Not Found: /dice/coin/2
+WARNING 2024-03-08 10:11:55,398 basehttp 10641 140096121493056 "GET /dice/coin/2 HTTP/1.1" 404 2963
+WARNING 2024-03-08 10:12:21,297 log 10641 140096121493056 Not Found: /dice/coin/
+WARNING 2024-03-08 10:12:21,298 basehttp 10641 140096121493056 "GET /dice/coin/ HTTP/1.1" 404 2960
+INFO 2024-03-08 10:13:50,082 autoreload 10641 140096168828928 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/views.py changed, reloading.
+INFO 2024-03-08 10:13:50,339 autoreload 10812 140394877911040 Watching for file changes with StatReloader
+INFO 2024-03-08 10:14:36,770 autoreload 10812 140394877911040 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/models.py changed, reloading.
+INFO 2024-03-08 10:14:37,031 autoreload 10886 140710589083648 Watching for file changes with StatReloader
+INFO 2024-03-08 10:15:07,297 autoreload 10886 140710589083648 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/models.py changed, reloading.
+INFO 2024-03-08 10:15:07,510 autoreload 10918 140476845846528 Watching for file changes with StatReloader
+INFO 2024-03-08 10:15:08,657 basehttp 10918 140476798510656 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-08 10:15:18,826 log 10918 140476798510656 Not Found: /dice/coin
+WARNING 2024-03-08 10:15:18,826 basehttp 10918 140476798510656 "GET /dice/coin HTTP/1.1" 404 2957
+INFO 2024-03-08 10:29:57,682 basehttp 10918 140476798510656 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-08 10:29:57,793 log 10918 140476798510656 Not Found: /favicon.ico
+DEBUG 2024-03-08 10:30:02,316 views 10918 140476798510656 3
+INFO 2024-03-08 10:30:02,317 basehttp 10918 140476798510656 "GET /dice/ HTTP/1.1" 200 1
+WARNING 2024-03-08 10:30:08,400 log 10918 140476798510656 Not Found: /dice/coin/10
+WARNING 2024-03-08 10:30:08,401 basehttp 10918 140476798510656 "GET /dice/coin/10 HTTP/1.1" 404 2966
+INFO 2024-03-08 10:39:22,714 autoreload 10918 140476845846528 /home/victoria/PycharmProjects/Django_seminars/myproject/dice/urls.py changed, reloading.
+INFO 2024-03-08 10:39:22,960 autoreload 11752 140669106819072 Watching for file changes with StatReloader
+INFO 2024-03-08 10:39:24,104 basehttp 11752 140669059483200 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-08 10:39:34,149 log 11752 140669059483200 Not Found: /dice/coin/10
+WARNING 2024-03-08 10:39:34,149 basehttp 11752 140669059483200 "GET /dice/coin/10 HTTP/1.1" 404 2968
+INFO 2024-03-08 10:45:01,023 basehttp 11752 140669059483200 "GET / HTTP/1.1" 200 824
+DEBUG 2024-03-08 10:45:15,376 views 11752 140669059483200 6
+INFO 2024-03-08 10:45:15,376 basehttp 11752 140669059483200 "GET /dice/ HTTP/1.1" 200 1
+DEBUG 2024-03-08 10:45:23,305 views 11752 140669059483200 65
+INFO 2024-03-08 10:45:23,305 basehttp 11752 140669059483200 "GET /number/ HTTP/1.1" 200 2
+INFO 2024-03-08 10:45:31,000 basehttp 11752 140669059483200 "GET /coin/10 HTTP/1.1" 301 0
+INFO 2024-03-08 10:45:31,003 views 11752 140669059483200 Tails
+INFO 2024-03-08 10:45:31,022 basehttp 11752 140669059483200 "GET /coin/10/ HTTP/1.1" 200 299
+INFO 2024-03-09 14:04:59,206 autoreload 3956 140561950015488 Watching for file changes with StatReloader
+INFO 2024-03-09 14:05:01,659 basehttp 3956 140561902679616 "GET / HTTP/1.1" 200 823
+WARNING 2024-03-09 14:05:01,771 log 3956 140561902679616 Not Found: /favicon.ico
+INFO 2024-03-09 14:05:19,947 views 3956 140561902679616 Tails
+INFO 2024-03-09 14:05:19,955 basehttp 3956 140561902679616 "GET /coin/10/ HTTP/1.1" 200 522
+INFO 2024-03-09 14:07:04,549 views 3956 140561902679616 Head
+INFO 2024-03-09 14:07:04,556 basehttp 3956 140561902679616 "GET /coin/10/ HTTP/1.1" 200 592
+INFO 2024-03-16 13:07:13,918 autoreload 7462 139764500455424 Watching for file changes with StatReloader
+INFO 2024-03-16 13:07:16,848 basehttp 7462 139764453119552 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-16 13:07:16,985 log 7462 139764453119552 Not Found: /favicon.ico
+WARNING 2024-03-16 13:07:47,778 log 7462 139764453119552 Not Found: /user/3
+WARNING 2024-03-16 13:07:47,779 basehttp 7462 139764453119552 "GET /user/3 HTTP/1.1" 404 2950
+INFO 2024-03-16 13:08:40,722 autoreload 7462 139764500455424 /home/victoria/PycharmProjects/Django_seminars/myproject/myproject/urls.py changed, reloading.
+INFO 2024-03-16 13:08:40,967 autoreload 7896 140111795146752 Watching for file changes with StatReloader
+INFO 2024-03-16 13:08:42,447 basehttp 7896 140111747810880 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:08:52,487 basehttp 7896 140111747810880 "GET /user/3 HTTP/1.1" 301 0
+ERROR 2024-03-16 13:08:52,539 log 7896 140111747810880 Internal Server Error: /user/3/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 12, in user_orders
+    orders = Order.objects.filter(user=user).order_by('-id')[:5]
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-03-16 13:08:52,541 basehttp 7896 140111747810880 "GET /user/3/ HTTP/1.1" 500 110393
+INFO 2024-03-16 13:16:32,561 autoreload 7896 140111795146752 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:16:32,819 autoreload 8222 139715111514112 Watching for file changes with StatReloader
+INFO 2024-03-16 13:17:18,299 autoreload 8222 139715111514112 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:17:18,522 autoreload 8346 139662624755712 Watching for file changes with StatReloader
+INFO 2024-03-16 13:17:37,682 autoreload 8346 139662624755712 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:17:37,895 autoreload 8368 140182964097024 Watching for file changes with StatReloader
+INFO 2024-03-16 13:18:24,045 basehttp 8368 140182916761152 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:18:24,433 autoreload 8368 140182964097024 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:18:24,685 autoreload 8459 140656878428160 Watching for file changes with StatReloader
+ERROR 2024-03-16 13:18:43,030 log 8459 140656756389440 Internal Server Error: /user/3/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: user_orders() got an unexpected keyword argument 'user_id'
+ERROR 2024-03-16 13:18:43,031 basehttp 8459 140656756389440 "GET /user/3/ HTTP/1.1" 500 61303
+INFO 2024-03-16 13:22:04,694 autoreload 8459 140656878428160 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-16 13:22:04,983 autoreload 8569 139710256795648 Watching for file changes with StatReloader
+INFO 2024-03-16 13:22:06,353 basehttp 8569 139710209459776 "GET / HTTP/1.1" 200 824
+ERROR 2024-03-16 13:22:13,877 log 8569 139710209459776 Internal Server Error: /user/3/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 13, in user_orders
+    return render(request, 'shop/user_orders.html', {'customer': customer, 'orders': orders})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2024-03-16 13:22:13,878 basehttp 8569 139710209459776 "GET /user/3/ HTTP/1.1" 500 134201
+INFO 2024-03-16 13:24:29,255 autoreload 8569 139710256795648 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:24:29,500 autoreload 8683 140010091253760 Watching for file changes with StatReloader
+INFO 2024-03-16 13:24:30,530 basehttp 8683 140010043917888 "GET / HTTP/1.1" 200 824
+ERROR 2024-03-16 13:24:39,860 log 8683 140010043917888 Internal Server Error: /user/3/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 13, in user_orders
+    return render(request, 'shop/user_orders.html', {'customer': customer, 'orders': orders})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2024-03-16 13:24:39,862 basehttp 8683 140010043917888 "GET /user/3/ HTTP/1.1" 500 134200
+INFO 2024-03-16 13:26:30,416 autoreload 8683 140010091253760 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:26:30,664 autoreload 8760 140311198253056 Watching for file changes with StatReloader
+INFO 2024-03-16 13:26:31,850 basehttp 8760 140311078630976 "GET / HTTP/1.1" 200 824
+ERROR 2024-03-16 13:26:44,083 log 8760 140311078630976 Internal Server Error: /user/3/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 13, in user_orders
+    return render(request, 'shop/user_orders.html', {'customer': customer, 'orders': orders})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2024-03-16 13:26:44,084 basehttp 8760 140311078630976 "GET /user/3/ HTTP/1.1" 500 134195
+INFO 2024-03-16 13:27:12,137 autoreload 8760 140311198253056 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:27:12,393 autoreload 8847 140449467817984 Watching for file changes with StatReloader
+INFO 2024-03-16 13:27:13,612 basehttp 8847 140449420482112 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:27:20,458 basehttp 8847 140449420482112 "GET /user/3/ HTTP/1.1" 200 974
+INFO 2024-03-16 13:27:26,218 basehttp 8847 140449420482112 "GET /user/2/ HTTP/1.1" 200 203
+WARNING 2024-03-16 13:27:30,182 log 8847 140449420482112 Not Found: /user/4/
+WARNING 2024-03-16 13:27:30,183 basehttp 8847 140449420482112 "GET /user/4/ HTTP/1.1" 404 3468
+INFO 2024-03-16 13:28:45,288 autoreload 8847 140449467817984 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:28:45,540 autoreload 8963 140137627545600 Watching for file changes with StatReloader
+INFO 2024-03-16 13:29:10,845 autoreload 8963 140137627545600 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:29:11,069 autoreload 8985 140019350069248 Watching for file changes with StatReloader
+INFO 2024-03-16 13:41:50,582 autoreload 8985 140019350069248 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-16 13:41:50,786 autoreload 9262 140462279282688 Watching for file changes with StatReloader
+INFO 2024-03-16 13:41:51,143 basehttp 9262 140462231946816 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-16 13:41:51,238 log 9262 140462231946816 Not Found: /favicon.ico
+INFO 2024-03-16 13:42:00,945 basehttp 9262 140462231946816 "GET /user/3/month HTTP/1.1" 301 0
+INFO 2024-03-16 13:42:00,955 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1188
+INFO 2024-03-16 13:43:17,265 basehttp 9262 140462231946816 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:43:33,536 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1097
+INFO 2024-03-16 13:44:14,397 basehttp 9262 140462231946816 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:44:25,261 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1188
+INFO 2024-03-16 13:45:20,485 basehttp 9262 140462231946816 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:45:40,182 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1225
+INFO 2024-03-16 13:46:50,839 basehttp 9262 140462231946816 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:47:01,477 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1254
+INFO 2024-03-16 13:47:14,972 basehttp 9262 140462231946816 "GET / HTTP/1.1" 200 824
+INFO 2024-03-16 13:47:18,070 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1272
+INFO 2024-03-16 13:47:36,518 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1206
+INFO 2024-03-16 13:47:55,373 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1338
+INFO 2024-03-16 13:48:06,624 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1272
+INFO 2024-03-16 13:48:35,466 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1272
+INFO 2024-03-16 13:48:36,605 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1272
+INFO 2024-03-16 13:49:01,130 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1254
+INFO 2024-03-16 13:49:21,062 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1272
+INFO 2024-03-16 13:50:08,906 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1206
+INFO 2024-03-16 13:50:24,989 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1206
+INFO 2024-03-16 13:51:07,782 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1284
+INFO 2024-03-16 13:51:20,436 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1278
+INFO 2024-03-16 13:53:03,967 basehttp 9262 140462231946816 "GET /user/3/month/ HTTP/1.1" 200 1278
+INFO 2024-03-16 13:53:14,696 basehttp 9262 140462231946816 "GET /user/3/year HTTP/1.1" 301 0
+INFO 2024-03-16 13:53:14,706 basehttp 9262 140462231946816 "GET /user/3/year/ HTTP/1.1" 200 1278
+INFO 2024-03-16 13:53:51,800 autoreload 9262 140462279282688 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-16 13:53:52,049 autoreload 10194 140555415617536 Watching for file changes with StatReloader
+INFO 2024-03-16 13:53:54,035 basehttp 10194 140555368281664 "GET /user/3/year/ HTTP/1.1" 200 1282
+INFO 2024-03-16 13:54:38,222 basehttp 10194 140555368281664 "GET /user/3/year/ HTTP/1.1" 200 1241
+INFO 2024-03-20 16:19:01,254 autoreload 6810 139996900999168 Watching for file changes with StatReloader
+INFO 2024-03-20 16:19:24,469 autoreload 6810 139996900999168 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 16:19:24,703 autoreload 6860 139695129223168 Watching for file changes with StatReloader
+INFO 2024-03-20 16:19:27,307 basehttp 6860 139695081887296 "GET / HTTP/1.1" 200 824
+WARNING 2024-03-20 16:19:27,396 log 6860 139695081887296 Not Found: /favicon.ico
+INFO 2024-03-20 16:19:39,140 basehttp 6860 139695081887296 "GET /edit_product/1 HTTP/1.1" 301 0
+ERROR 2024-03-20 16:19:39,173 log 6860 139695081887296 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 28, in edit_product
+    return render(request, 'edit_product.html', {'form': form})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: edit_product.html
+ERROR 2024-03-20 16:19:39,174 basehttp 6860 139695081887296 "GET /edit_product/1/ HTTP/1.1" 500 82368
+INFO 2024-03-20 16:22:28,340 autoreload 7356 140504392531968 Watching for file changes with StatReloader
+INFO 2024-03-20 16:22:31,175 basehttp 7356 140504345196096 "GET / HTTP/1.1" 200 824
+ERROR 2024-03-20 16:22:41,444 log 7356 140504345196096 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 28, in edit_product
+    return render(request, 'edit_product.html', {'form': form})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: edit_product.html
+ERROR 2024-03-20 16:22:41,445 basehttp 7356 140504345196096 "GET /edit_product/1/ HTTP/1.1" 500 82368
+INFO 2024-03-20 16:23:11,760 autoreload 7356 140504392531968 /home/victoria/PycharmProjects/Django_seminars/myproject/myproject/settings.py changed, reloading.
+INFO 2024-03-20 16:26:51,739 autoreload 7818 140605706792960 Watching for file changes with StatReloader
+INFO 2024-03-20 16:26:57,204 basehttp 7818 140605659457088 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:27:05,656 basehttp 7818 140605659457088 "GET / HTTP/1.1" 200 824
+ERROR 2024-03-20 16:27:14,904 log 7818 140605659457088 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 28, in edit_product
+    return render(request, 'edit_product.html', {'form': form})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: edit_product.html
+ERROR 2024-03-20 16:27:14,905 basehttp 7818 140605659457088 "GET /edit_product/1/ HTTP/1.1" 500 82834
+INFO 2024-03-20 16:29:29,533 basehttp 7818 140605659457088 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:35:09,572 autoreload 7818 140605706792960 /home/victoria/PycharmProjects/Django_seminars/myproject/myproject/settings.py changed, reloading.
+INFO 2024-03-20 16:35:09,811 autoreload 8079 140489208958976 Watching for file changes with StatReloader
+INFO 2024-03-20 16:35:14,463 basehttp 8079 140489161623104 "GET / HTTP/1.1" 200 824
+ERROR 2024-03-20 16:35:23,651 log 8079 140489161623104 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 28, in edit_product
+    return render(request, 'edit_product.html', {'form': form})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: edit_product.html
+ERROR 2024-03-20 16:35:23,652 basehttp 8079 140489161623104 "GET /edit_product/1/ HTTP/1.1" 500 82864
+INFO 2024-03-20 16:38:25,656 autoreload 8353 140144157016064 Watching for file changes with StatReloader
+INFO 2024-03-20 16:38:27,757 basehttp 8353 140144109680192 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:38:36,771 basehttp 8353 140144109680192 "GET /edit_product/1/ HTTP/1.1" 200 1101
+ERROR 2024-03-20 16:38:49,373 log 8353 140144109680192 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 25, in edit_product
+    return redirect('base')
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/urls/resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'base' not found. 'base' is not a valid view function or pattern name.
+ERROR 2024-03-20 16:38:49,374 basehttp 8353 140144109680192 "POST /edit_product/1/ HTTP/1.1" 500 86401
+INFO 2024-03-20 16:39:49,385 autoreload 8353 140144157016064 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 16:39:49,617 autoreload 8483 140059897835520 Watching for file changes with StatReloader
+INFO 2024-03-20 16:39:54,653 basehttp 8483 140059850499648 "GET /edit_product/1/ HTTP/1.1" 200 1101
+INFO 2024-03-20 16:39:56,248 basehttp 8483 140059850499648 "POST /edit_product/1/ HTTP/1.1" 302 0
+WARNING 2024-03-20 16:39:56,262 log 8483 140059850499648 Not Found: /edit_product/1/index.html
+WARNING 2024-03-20 16:39:56,263 basehttp 8483 140059850499648 "GET /edit_product/1/index.html HTTP/1.1" 404 3372
+INFO 2024-03-20 16:41:04,292 autoreload 8483 140059897835520 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 16:41:04,498 autoreload 8613 140370886524928 Watching for file changes with StatReloader
+INFO 2024-03-20 16:41:10,329 basehttp 8613 140370839189056 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:41:17,678 basehttp 8613 140370839189056 "GET /edit_product/1/ HTTP/1.1" 200 1101
+INFO 2024-03-20 16:41:22,264 basehttp 8613 140370839189056 "POST /edit_product/1/ HTTP/1.1" 302 0
+INFO 2024-03-20 16:41:22,266 basehttp 8613 140370839189056 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:43:11,323 basehttp 8613 140370839189056 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:43:23,218 basehttp 8613 140370839189056 "GET /edit_product/1/ HTTP/1.1" 200 1101
+INFO 2024-03-20 16:43:27,307 basehttp 8613 140370839189056 "POST /edit_product/1/ HTTP/1.1" 302 0
+INFO 2024-03-20 16:43:27,310 basehttp 8613 140370839189056 "GET / HTTP/1.1" 200 824
+INFO 2024-03-20 16:44:25,123 autoreload 8613 140370886524928 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 16:44:25,360 autoreload 9002 139668659560448 Watching for file changes with StatReloader
+ERROR 2024-03-20 16:44:28,056 log 9002 139668612224576 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 16:44:28,057 basehttp 9002 139668612224576 "GET / HTTP/1.1" 500 82208
+INFO 2024-03-20 16:45:42,079 autoreload 9002 139668659560448 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 16:45:42,310 autoreload 9084 140102650564608 Watching for file changes with StatReloader
+ERROR 2024-03-20 16:45:44,952 log 9084 140102603228736 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 16:45:44,954 basehttp 9084 140102603228736 "GET / HTTP/1.1" 500 82211
+ERROR 2024-03-20 16:45:46,082 log 9084 140102603228736 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 16:45:46,083 basehttp 9084 140102603228736 "GET / HTTP/1.1" 500 82208
+INFO 2024-03-20 16:45:54,568 basehttp 9084 140102603228736 "GET /edit_product/1/ HTTP/1.1" 200 1101
+INFO 2024-03-20 16:45:58,380 basehttp 9084 140102603228736 "POST /edit_product/1/ HTTP/1.1" 302 0
+WARNING 2024-03-20 16:45:58,387 log 9084 140102603228736 Not Found: /edit_product/1/shop/home
+WARNING 2024-03-20 16:45:58,388 basehttp 9084 140102603228736 "GET /edit_product/1/shop/home HTTP/1.1" 404 3369
+INFO 2024-03-20 16:46:22,720 autoreload 9084 140102650564608 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 16:46:22,934 autoreload 9124 140112859435008 Watching for file changes with StatReloader
+INFO 2024-03-20 16:48:20,868 autoreload 9124 140112859435008 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 16:48:21,070 autoreload 9163 139738413150208 Watching for file changes with StatReloader
+INFO 2024-03-20 16:49:06,472 autoreload 9163 139738413150208 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 16:49:06,714 autoreload 9225 140241079414784 Watching for file changes with StatReloader
+INFO 2024-03-20 16:50:03,059 autoreload 9225 140241079414784 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 16:50:03,295 autoreload 9379 139910964154368 Watching for file changes with StatReloader
+ERROR 2024-03-20 16:50:04,478 log 9379 139910841366080 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 16:50:04,479 basehttp 9379 139910841366080 "GET / HTTP/1.1" 500 82210
+INFO 2024-03-20 16:50:11,663 basehttp 9379 139910841366080 "GET /edit_product/1/ HTTP/1.1" 200 1101
+INFO 2024-03-20 16:50:16,406 basehttp 9379 139910841366080 "POST /edit_product/1/ HTTP/1.1" 302 0
+INFO 2024-03-20 16:50:16,409 basehttp 9379 139910841366080 "GET /home/ HTTP/1.1" 200 261
+INFO 2024-03-20 17:08:27,979 autoreload 10194 139756197986304 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:08:29,884 log 10194 139756144948800 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:08:29,885 basehttp 10194 139756144948800 "GET / HTTP/1.1" 500 81977
+WARNING 2024-03-20 17:08:29,975 log 10194 139756144948800 Not Found: /favicon.ico
+INFO 2024-03-20 17:09:59,803 autoreload 10194 139756197986304 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:10:00,026 autoreload 10646 140270414168064 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:10:05,473 log 10646 140270361376320 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:10:05,477 basehttp 10646 140270361376320 "GET / HTTP/1.1" 500 81977
+ERROR 2024-03-20 17:10:05,484 log 10646 140270276441664 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:10:05,485 basehttp 10646 140270276441664 "GET / HTTP/1.1" 500 81977
+INFO 2024-03-20 17:10:34,439 autoreload 10646 140270414168064 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:10:34,688 autoreload 11177 140090750455808 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:10:36,088 log 11177 140090626012736 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:10:36,088 basehttp 11177 140090626012736 "GET / HTTP/1.1" 500 81977
+INFO 2024-03-20 17:11:12,105 autoreload 11177 140090750455808 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:11:12,343 autoreload 11558 139621512085504 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:11:14,049 log 11558 139621458507328 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:11:14,050 basehttp 11558 139621458507328 "GET / HTTP/1.1" 500 81977
+WARNING 2024-03-20 17:11:14,124 log 11558 139621458507328 Not Found: /favicon.ico
+ERROR 2024-03-20 17:11:30,764 log 11558 139621458507328 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 27, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2024-03-20 17:11:30,765 basehttp 11558 139621458507328 "GET /edit_product/1/ HTTP/1.1" 500 66161
+INFO 2024-03-20 17:13:06,336 autoreload 11558 139621512085504 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:13:06,588 autoreload 11937 139685510811648 Watching for file changes with StatReloader
+INFO 2024-03-20 17:14:23,256 autoreload 11937 139685510811648 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 17:14:23,493 autoreload 11970 140208100855808 Watching for file changes with StatReloader
+INFO 2024-03-20 17:15:21,026 autoreload 11970 140208100855808 /home/victoria/PycharmProjects/Django_seminars/myproject/myproject/settings.py changed, reloading.
+INFO 2024-03-20 17:15:21,272 autoreload 11997 140524590288896 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:15:23,589 log 11997 140524537247296 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:15:23,589 basehttp 11997 140524537247296 "GET / HTTP/1.1" 500 81969
+WARNING 2024-03-20 17:15:23,669 log 11997 140524537247296 Not Found: /favicon.ico
+INFO 2024-03-20 17:16:22,895 autoreload 11997 140524590288896 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:16:23,141 autoreload 12336 140552205365248 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:16:24,130 log 12336 140552152544832 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:16:24,131 basehttp 12336 140552152544832 "GET / HTTP/1.1" 500 81969
+INFO 2024-03-20 17:16:57,498 autoreload 12336 140552205365248 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:16:57,746 autoreload 12786 140204231868416 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:16:59,281 log 12786 140204107101760 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:16:59,281 basehttp 12786 140204107101760 "GET / HTTP/1.1" 500 81969
+INFO 2024-03-20 17:19:48,613 autoreload 13233 140176228220928 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:19:50,625 log 13233 140176175134272 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:19:50,626 basehttp 13233 140176175134272 "GET / HTTP/1.1" 500 82131
+INFO 2024-03-20 17:21:18,443 autoreload 13233 140176228220928 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:21:18,682 autoreload 13378 140708356038656 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:21:19,734 log 13378 140708228888128 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:21:19,734 basehttp 13378 140708228888128 "GET / HTTP/1.1" 500 82131
+INFO 2024-03-20 17:23:31,771 autoreload 13572 139684760559616 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:23:33,069 log 13572 139684707563072 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:23:33,069 basehttp 13572 139684707563072 "GET / HTTP/1.1" 500 81966
+INFO 2024-03-20 17:25:19,703 autoreload 13572 139684760559616 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 17:25:19,955 autoreload 13736 139645502844928 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:25:21,040 log 13736 139645449926208 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:25:21,042 basehttp 13736 139645449926208 "GET / HTTP/1.1" 500 81966
+INFO 2024-03-20 17:25:52,280 autoreload 13736 139645502844928 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:25:52,524 autoreload 13854 139836425285632 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:25:54,047 log 13854 139836372547136 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:25:54,048 basehttp 13854 139836372547136 "GET / HTTP/1.1" 500 81966
+WARNING 2024-03-20 17:25:54,124 log 13854 139836372547136 Not Found: /favicon.ico
+INFO 2024-03-20 17:26:36,424 autoreload 14206 139704243699712 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:26:39,154 log 14206 139704190105152 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:26:39,154 basehttp 14206 139704190105152 "GET / HTTP/1.1" 500 81969
+WARNING 2024-03-20 17:26:39,234 log 14206 139704190105152 Not Found: /favicon.ico
+INFO 2024-03-20 17:34:13,965 autoreload 14206 139704243699712 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:34:14,210 autoreload 14720 140549200465920 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:34:15,631 log 14720 140549147326016 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:34:15,632 basehttp 14720 140549147326016 "GET / HTTP/1.1" 500 81969
+INFO 2024-03-20 17:35:04,576 autoreload 14790 140175749836800 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:35:07,217 log 14790 140175696983616 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:35:07,218 basehttp 14790 140175696983616 "GET / HTTP/1.1" 500 81966
+ERROR 2024-03-20 17:35:11,505 log 14790 140175696983616 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:35:11,506 basehttp 14790 140175696983616 "GET / HTTP/1.1" 500 81969
+WARNING 2024-03-20 17:35:23,157 log 14790 140175696983616 Not Found: /edit_product/
+WARNING 2024-03-20 17:35:23,157 basehttp 14790 140175696983616 "GET /edit_product/ HTTP/1.1" 404 3336
+ERROR 2024-03-20 17:35:46,243 log 14790 140175696983616 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 20, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2024-03-20 17:35:46,244 basehttp 14790 140175696983616 "GET /edit_product/1/ HTTP/1.1" 500 66199
+INFO 2024-03-20 17:43:01,559 autoreload 15519 140212390047744 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:43:03,454 log 15519 140212342711872 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:43:03,455 basehttp 15519 140212342711872 "GET / HTTP/1.1" 500 81966
+WARNING 2024-03-20 17:43:03,534 log 15519 140212342711872 Not Found: /favicon.ico
+INFO 2024-03-20 17:49:02,158 autoreload 15519 140212390047744 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:49:02,390 autoreload 16034 139907575062528 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:49:03,989 log 16034 139907527726656 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:49:03,990 basehttp 16034 139907527726656 "GET / HTTP/1.1" 500 81966
+WARNING 2024-03-20 17:49:04,068 log 16034 139907527726656 Not Found: /favicon.ico
+INFO 2024-03-20 17:49:52,891 autoreload 16034 139907575062528 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:49:53,134 autoreload 16426 140644383285248 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:49:54,165 log 16426 140644335949376 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/app/views.py", line 10, in index
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+ERROR 2024-03-20 17:49:54,165 basehttp 16426 140644335949376 "GET / HTTP/1.1" 500 81969
+INFO 2024-03-20 17:52:21,284 autoreload 16426 140644383285248 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/urls.py changed, reloading.
+INFO 2024-03-20 17:52:21,514 autoreload 16609 139671066513408 Watching for file changes with StatReloader
+INFO 2024-03-20 17:52:46,743 autoreload 16609 139671066513408 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:52:46,962 autoreload 16630 140203006902272 Watching for file changes with StatReloader
+INFO 2024-03-20 17:53:12,252 autoreload 16630 140203006902272 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/forms.py changed, reloading.
+INFO 2024-03-20 17:53:12,490 autoreload 16653 139678204522496 Watching for file changes with StatReloader
+INFO 2024-03-20 17:53:19,664 autoreload 16653 139678204522496 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/forms.py changed, reloading.
+INFO 2024-03-20 17:53:19,912 autoreload 16662 139779951259648 Watching for file changes with StatReloader
+INFO 2024-03-20 17:54:16,421 basehttp 16662 139779903923776 "GET / HTTP/1.1" 200 123
+ERROR 2024-03-20 17:54:27,455 log 16662 139779903923776 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 24, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2024-03-20 17:54:27,455 basehttp 16662 139779903923776 "GET /edit_product/1/ HTTP/1.1" 500 65476
+INFO 2024-03-20 17:55:50,168 autoreload 16662 139779951259648 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:55:50,417 autoreload 16818 140470082109440 Watching for file changes with StatReloader
+INFO 2024-03-20 17:56:21,001 basehttp 16818 140470034773568 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 17:56:21,782 autoreload 16818 140470082109440 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:56:21,981 autoreload 16873 140090278850560 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:56:30,015 log 16873 140090156250688 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 26, in edit_product
+    return render(request, 'edit_product.html', {'form': form})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: edit_product.html
+ERROR 2024-03-20 17:56:30,016 basehttp 16873 140090156250688 "GET /edit_product/1/ HTTP/1.1" 500 81834
+INFO 2024-03-20 17:57:34,618 autoreload 16873 140090278850560 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:57:34,861 autoreload 16932 139646899179520 Watching for file changes with StatReloader
+INFO 2024-03-20 17:57:36,147 basehttp 16932 139646851843648 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 17:57:43,146 basehttp 16932 139646851843648 "GET /edit_product/1/ HTTP/1.1" 200 1239
+ERROR 2024-03-20 17:57:51,992 log 16932 139646851843648 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 20, in edit_product
+    form.save()
+AttributeError: 'ProductForm' object has no attribute 'save'
+ERROR 2024-03-20 17:57:51,993 basehttp 16932 139646851843648 "POST /edit_product/1/ HTTP/1.1" 500 67823
+INFO 2024-03-20 17:59:28,810 autoreload 16932 139646899179520 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 17:59:29,043 autoreload 17037 140627400228864 Watching for file changes with StatReloader
+ERROR 2024-03-20 17:59:50,518 log 17037 140627352892992 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 24, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2024-03-20 17:59:50,519 basehttp 17037 140627352892992 "GET /edit_product/1/ HTTP/1.1" 500 65583
+INFO 2024-03-20 18:00:33,587 autoreload 17037 140627400228864 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:00:33,795 autoreload 17063 139978539474944 Watching for file changes with StatReloader
+INFO 2024-03-20 18:00:34,994 basehttp 17063 139978419992128 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:00:43,112 basehttp 17063 139978419992128 "GET /edit_product/1/ HTTP/1.1" 200 1187
+INFO 2024-03-20 18:01:35,398 autoreload 17063 139978539474944 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:01:35,637 autoreload 17143 140477633630208 Watching for file changes with StatReloader
+INFO 2024-03-20 18:01:36,544 basehttp 17143 140477586294336 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:01:43,291 basehttp 17143 140477586294336 "GET /edit_product/1/ HTTP/1.1" 200 1239
+ERROR 2024-03-20 18:01:48,990 log 17143 140477586294336 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 16, in edit_product
+    form = ProductForm(request.POST, instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2024-03-20 18:01:48,991 basehttp 17143 140477586294336 "POST /edit_product/1/ HTTP/1.1" 500 67614
+INFO 2024-03-20 18:02:35,164 autoreload 17143 140477633630208 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:02:35,388 autoreload 17213 140435667095552 Watching for file changes with StatReloader
+INFO 2024-03-20 18:02:36,487 basehttp 17213 140435619759680 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:02:44,957 basehttp 17213 140435619759680 "GET /edit_product/1/ HTTP/1.1" 200 1239
+INFO 2024-03-20 18:02:50,615 basehttp 17213 140435619759680 "POST /edit_product/1/ HTTP/1.1" 302 0
+ERROR 2024-03-20 18:02:50,657 log 17213 140435619759680 Internal Server Error: /data_saved/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 11, in data_saved
+    return render(request, 'data_saved.html')
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: data_saved.html
+ERROR 2024-03-20 18:02:50,658 basehttp 17213 140435619759680 "GET /data_saved/ HTTP/1.1" 500 82074
+INFO 2024-03-20 18:03:18,920 autoreload 17213 140435667095552 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:03:19,170 autoreload 17284 140567836069888 Watching for file changes with StatReloader
+INFO 2024-03-20 18:03:28,360 autoreload 17284 140567836069888 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:03:28,594 autoreload 17302 140348826243072 Watching for file changes with StatReloader
+INFO 2024-03-20 18:03:29,702 basehttp 17302 140348778907200 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:03:37,533 basehttp 17302 140348778907200 "GET /edit_product/1/ HTTP/1.1" 200 1239
+INFO 2024-03-20 18:03:42,077 basehttp 17302 140348778907200 "POST /edit_product/1/ HTTP/1.1" 302 0
+INFO 2024-03-20 18:03:42,080 basehttp 17302 140348778907200 "GET /data_saved/ HTTP/1.1" 200 277
+INFO 2024-03-20 18:05:57,789 autoreload 17302 140348826243072 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/forms.py changed, reloading.
+INFO 2024-03-20 18:05:58,020 autoreload 17464 139726023090176 Watching for file changes with StatReloader
+INFO 2024-03-20 18:06:12,218 autoreload 17464 139726023090176 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/models.py changed, reloading.
+INFO 2024-03-20 18:06:12,458 autoreload 17486 140707617529856 Watching for file changes with StatReloader
+INFO 2024-03-20 18:07:42,148 autoreload 17486 140707617529856 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:07:42,392 autoreload 17580 139920325832704 Watching for file changes with StatReloader
+INFO 2024-03-20 18:08:12,744 autoreload 17580 139920325832704 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py changed, reloading.
+INFO 2024-03-20 18:08:13,002 autoreload 17603 140622870196224 Watching for file changes with StatReloader
+INFO 2024-03-20 18:09:58,981 autoreload 17698 140558641262592 Watching for file changes with StatReloader
+INFO 2024-03-20 18:10:01,127 basehttp 17698 140558587655744 "GET / HTTP/1.1" 200 123
+WARNING 2024-03-20 18:10:01,214 log 17698 140558587655744 Not Found: /favicon.ico
+ERROR 2024-03-20 18:10:08,239 log 17698 140558587655744 Internal Server Error: /edit_product/1/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/myproject/shop/views.py", line 31, in edit_product
+    return render(request, 'shop/edit_product.html', {'form': form})
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 510, in parse
+    raise self.error(token, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 510, in parse
+    raise self.error(token, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 510, in parse
+    raise self.error(token, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 228, in do_block
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'block' tag with name 'title' appears more than once
+ERROR 2024-03-20 18:10:08,240 basehttp 17698 140558587655744 "GET /edit_product/1/ HTTP/1.1" 500 175581
+INFO 2024-03-20 18:11:37,181 autoreload 18045 140107349106688 Watching for file changes with StatReloader
+INFO 2024-03-20 18:11:38,506 basehttp 18045 140107296273984 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:11:47,982 basehttp 18045 140107296273984 "GET /edit_product/1/ HTTP/1.1" 200 1439
+INFO 2024-03-20 18:12:23,480 basehttp 18045 140107296273984 "GET /edit_product/1/ HTTP/1.1" 200 1439
+INFO 2024-03-20 18:12:42,878 autoreload 18111 140381585334272 Watching for file changes with StatReloader
+INFO 2024-03-20 18:12:47,468 basehttp 18111 140381532452416 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:12:53,720 basehttp 18111 140381532452416 "GET /edit_product/1/ HTTP/1.1" 200 1439
+INFO 2024-03-20 18:13:42,267 autoreload 18172 139939429220352 Watching for file changes with StatReloader
+INFO 2024-03-20 18:13:44,698 basehttp 18172 139939376264768 "GET / HTTP/1.1" 200 123
+INFO 2024-03-20 18:13:54,656 basehttp 18172 139939376264768 "GET /edit_product/1/ HTTP/1.1" 200 1267
+INFO 2024-03-20 18:15:39,149 basehttp 18172 139939376264768 "POST /edit_product/1/ HTTP/1.1" 302 0
+INFO 2024-03-20 18:15:39,152 basehttp 18172 139939376264768 "GET /data_saved/ HTTP/1.1" 200 277
+INFO 2024-03-23 13:28:18,953 autoreload 16546 140490773618688 Watching for file changes with StatReloader
+INFO 2024-03-23 13:28:20,175 basehttp 16546 140490720671296 "GET / HTTP/1.1" 200 123
+INFO 2024-03-23 13:28:26,844 basehttp 16546 140490720671296 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-23 13:28:26,870 basehttp 16546 140490720671296 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+INFO 2024-03-23 13:28:26,939 basehttp 16546 140490720671296 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-03-23 13:28:34,094 basehttp 16546 140490720671296 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-23 13:28:34,104 basehttp 16546 140490720671296 "GET /admin/ HTTP/1.1" 200 5533
+INFO 2024-03-23 13:28:40,421 basehttp 16546 140490720671296 "GET /admin/auth/user/ HTTP/1.1" 200 10744
+INFO 2024-03-23 13:28:40,439 basehttp 16546 140490720671296 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-03-23 13:28:42,317 basehttp 16546 140490720671296 "GET /admin/auth/group/ HTTP/1.1" 200 7242
+INFO 2024-03-23 13:28:42,342 basehttp 16546 140490720671296 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-03-23 13:28:43,537 basehttp 16546 140490720671296 "GET /admin/auth/user/ HTTP/1.1" 200 10744
+INFO 2024-03-23 13:28:43,558 basehttp 16546 140490709132864 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-03-23 13:32:13,791 basehttp 16546 140490720671296 "GET /admin/auth/user/add/ HTTP/1.1" 200 10134
+INFO 2024-03-23 13:32:13,814 basehttp 16546 140490720671296 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-03-23 13:32:40,959 autoreload 16546 140490773618688 /home/victoria/PycharmProjects/Django_seminars/myproject/myproject/settings.py changed, reloading.
+INFO 2024-03-23 13:32:41,229 autoreload 17362 139976594558976 Watching for file changes with StatReloader
+INFO 2024-03-23 13:32:43,610 basehttp 17362 139976469640768 "GET /admin/auth/user/add/ HTTP/1.1" 200 11238
+INFO 2024-03-23 13:32:43,625 basehttp 17362 139976469640768 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:36:59,130 autoreload 17362 139976594558976 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-23 13:36:59,357 autoreload 17650 140282821824512 Watching for file changes with StatReloader
+INFO 2024-03-23 13:38:21,072 autoreload 17650 140282821824512 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-23 13:38:21,320 autoreload 17799 140257352052736 Watching for file changes with StatReloader
+INFO 2024-03-23 13:38:31,538 autoreload 17799 140257352052736 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-23 13:38:31,783 autoreload 17821 139834325495808 Watching for file changes with StatReloader
+INFO 2024-03-23 13:41:13,029 autoreload 17821 139834325495808 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-23 13:41:13,249 autoreload 17916 139751250644992 Watching for file changes with StatReloader
+INFO 2024-03-23 13:41:33,395 basehttp 17916 139751122269760 "GET /admin/auth/group/ HTTP/1.1" 200 8903
+INFO 2024-03-23 13:41:33,433 basehttp 17916 139751122269760 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:41:37,426 basehttp 17916 139751122269760 "GET /admin/shop/user/ HTTP/1.1" 200 12558
+INFO 2024-03-23 13:41:37,447 basehttp 17916 139751113877056 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:41:41,022 basehttp 17916 139751122269760 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+INFO 2024-03-23 13:41:41,049 basehttp 17916 139751113877056 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:41:43,327 basehttp 17916 139751122269760 "GET /admin/shop/order/ HTTP/1.1" 200 13855
+INFO 2024-03-23 13:41:43,351 basehttp 17916 139751113877056 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:44:16,575 autoreload 17916 139751250644992 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-23 13:44:16,844 autoreload 17971 140191963385856 Watching for file changes with StatReloader
+INFO 2024-03-23 13:46:53,030 autoreload 18078 139860220526592 Watching for file changes with StatReloader
+INFO 2024-03-23 13:46:57,279 basehttp 18078 139860098676288 "GET /admin/shop/order/ HTTP/1.1" 200 13855
+INFO 2024-03-23 13:46:57,295 basehttp 18078 139860098676288 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:47:06,900 basehttp 18078 139860098676288 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+INFO 2024-03-23 13:47:06,926 basehttp 18078 139860098676288 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:48:11,495 basehttp 18078 139860098676288 "GET /admin/shop/user/ HTTP/1.1" 200 12558
+INFO 2024-03-23 13:48:11,509 basehttp 18078 139860098676288 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:48:13,183 basehttp 18078 139860098676288 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+INFO 2024-03-23 13:48:13,212 basehttp 18078 139860089235008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:48:14,162 basehttp 18078 139860098676288 "GET /admin/shop/order/ HTTP/1.1" 200 13855
+INFO 2024-03-23 13:48:14,185 basehttp 18078 139860089235008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:48:15,617 basehttp 18078 139860098676288 "GET /admin/auth/group/ HTTP/1.1" 200 8903
+INFO 2024-03-23 13:48:15,643 basehttp 18078 139860089235008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 13:48:16,817 basehttp 18078 139860098676288 "GET /admin/auth/user/ HTTP/1.1" 200 13034
+INFO 2024-03-23 13:48:16,838 basehttp 18078 139860089235008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:48:19,626 autoreload 3208 140487690104832 Watching for file changes with StatReloader
+INFO 2024-03-24 04:48:22,635 basehttp 3208 140487568651840 "GET / HTTP/1.1" 200 123
+WARNING 2024-03-24 04:48:22,741 log 3208 140487568651840 Not Found: /favicon.ico
+INFO 2024-03-24 04:48:28,432 basehttp 3208 140487568651840 "GET /admin/ HTTP/1.1" 200 7476
+INFO 2024-03-24 04:48:28,453 basehttp 3208 140487568651840 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-24 04:48:28,453 basehttp 3208 140487559210560 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-24 04:48:39,228 basehttp 3208 140487568651840 "GET /admin/auth/user/ HTTP/1.1" 200 13034
+INFO 2024-03-24 04:48:39,254 basehttp 3208 140487559210560 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-03-24 04:48:39,254 basehttp 3208 140487568651840 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-24 04:48:39,258 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:48:39,280 basehttp 3208 140487549769280 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-24 04:48:39,281 basehttp 3208 140487559210560 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-24 04:48:39,281 basehttp 3208 140487541376576 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-24 04:48:42,841 basehttp 3208 140487549769280 "GET /admin/auth/group/ HTTP/1.1" 200 8903
+INFO 2024-03-24 04:48:42,864 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:48:47,903 basehttp 3208 140487549769280 "GET /admin/shop/user/ HTTP/1.1" 200 12558
+INFO 2024-03-24 04:48:47,923 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:48:50,020 basehttp 3208 140487549769280 "GET /admin/auth/user/ HTTP/1.1" 200 13034
+INFO 2024-03-24 04:48:50,044 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:49:30,877 basehttp 3208 140487549769280 "GET /admin/auth/group/ HTTP/1.1" 200 8903
+INFO 2024-03-24 04:49:30,891 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:49:31,856 basehttp 3208 140487549769280 "GET /admin/auth/group/add/ HTTP/1.1" 200 14233
+INFO 2024-03-24 04:49:31,882 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:49:31,883 basehttp 3208 140487559210560 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+INFO 2024-03-24 04:49:31,883 basehttp 3208 140487541376576 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-24 04:49:31,957 basehttp 3208 140487549769280 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-24 04:49:31,957 basehttp 3208 140487559210560 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-24 04:49:31,957 basehttp 3208 140487541376576 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-24 04:57:26,411 basehttp 3208 140487541376576 "GET /admin/auth/user/ HTTP/1.1" 200 13034
+INFO 2024-03-24 04:57:26,440 basehttp 3208 140487541376576 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:57:27,822 basehttp 3208 140487541376576 "GET /admin/auth/user/add/ HTTP/1.1" 200 12358
+INFO 2024-03-24 04:57:27,848 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:57:38,185 basehttp 3208 140487541376576 "GET /admin/shop/order/ HTTP/1.1" 200 13855
+INFO 2024-03-24 04:57:38,209 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:57:39,906 basehttp 3208 140487541376576 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+INFO 2024-03-24 04:57:39,924 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:57:42,222 basehttp 3208 140487541376576 "GET /admin/shop/user/ HTTP/1.1" 200 12558
+INFO 2024-03-24 04:57:42,236 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:58:14,216 basehttp 3208 140487541376576 "GET /admin/shop/user/ HTTP/1.1" 200 12558
+INFO 2024-03-24 04:58:14,233 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 04:58:16,205 basehttp 3208 140487541376576 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+INFO 2024-03-24 04:58:16,223 basehttp 3208 140487549769280 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+ERROR 2024-03-24 04:58:17,712 log 3208 140487541376576 Internal Server Error: /admin/shop/product/4/change/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (category) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1948, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (category) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-03-24 04:58:17,715 basehttp 3208 140487541376576 "GET /admin/shop/product/4/change/ HTTP/1.1" 500 145080
+INFO 2024-03-24 04:59:00,734 basehttp 3208 140487541376576 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+ERROR 2024-03-24 04:59:09,845 log 3208 140487541376576 Internal Server Error: /admin/shop/product/1/change/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (category) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1948, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (category) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-03-24 04:59:09,846 basehttp 3208 140487541376576 "GET /admin/shop/product/1/change/ HTTP/1.1" 500 145080
+INFO 2024-03-24 04:59:11,148 basehttp 3208 140487541376576 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+ERROR 2024-03-24 05:01:30,944 log 3208 140487541376576 Internal Server Error: /admin/shop/product/4/change/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (category) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1948, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (category) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-03-24 05:01:30,945 basehttp 3208 140487541376576 "GET /admin/shop/product/4/change/ HTTP/1.1" 500 145080
+INFO 2024-03-24 05:02:40,264 autoreload 3208 140487690104832 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-24 05:02:40,523 autoreload 4504 140590930464768 Watching for file changes with StatReloader
+INFO 2024-03-24 05:02:43,787 basehttp 4504 140590876456512 "GET /admin/shop/product/4/change/ HTTP/1.1" 200 11681
+INFO 2024-03-24 05:02:43,800 basehttp 4504 140590876456512 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:05:55,150 autoreload 4504 140590930464768 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/models.py changed, reloading.
+INFO 2024-03-24 05:05:55,390 autoreload 4673 140680211853312 Watching for file changes with StatReloader
+INFO 2024-03-24 05:06:21,987 autoreload 4694 140711579693056 Watching for file changes with StatReloader
+INFO 2024-03-24 05:06:57,325 autoreload 4694 140711579693056 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-24 05:06:57,539 autoreload 4714 139864841621504 Watching for file changes with StatReloader
+INFO 2024-03-24 05:06:59,318 basehttp 4714 139864787908160 "GET /admin/shop/product/ HTTP/1.1" 200 13926
+INFO 2024-03-24 05:06:59,340 basehttp 4714 139864787908160 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+ERROR 2024-03-24 05:07:01,026 log 4714 139864787908160 Internal Server Error: /admin/shop/product/4/change/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/forms/models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (date_added) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1948, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+  File "/home/victoria/PycharmProjects/Django_seminars/.venv/lib/python3.10/site-packages/django/contrib/admin/options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (date_added) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-03-24 05:07:01,028 basehttp 4714 139864787908160 "GET /admin/shop/product/4/change/ HTTP/1.1" 500 145542
+INFO 2024-03-24 05:07:27,904 autoreload 4714 139864841621504 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-24 05:07:28,149 autoreload 4734 140158504857600 Watching for file changes with StatReloader
+INFO 2024-03-24 05:07:30,589 basehttp 4734 140158451054144 "GET /admin/shop/product/4/change/ HTTP/1.1" 200 13148
+INFO 2024-03-24 05:07:30,606 basehttp 4734 140158451054144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:19,709 autoreload 4734 140158504857600 /home/victoria/PycharmProjects/Django_seminars/myproject/shop/admin.py changed, reloading.
+INFO 2024-03-24 05:08:19,930 autoreload 4771 139970142154752 Watching for file changes with StatReloader
+INFO 2024-03-24 05:08:22,786 basehttp 4771 139970088007232 "GET /admin/shop/product/4/change/ HTTP/1.1" 200 13063
+INFO 2024-03-24 05:08:22,809 basehttp 4771 139970088007232 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:36,422 basehttp 4771 139970088007232 "POST /admin/shop/product/4/change/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:08:36,465 basehttp 4771 139970088007232 "GET /admin/shop/product/ HTTP/1.1" 200 14147
+INFO 2024-03-24 05:08:36,529 basehttp 4771 139970088007232 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:39,395 basehttp 4771 139970088007232 "GET /admin/shop/product/3/change/ HTTP/1.1" 200 13064
+INFO 2024-03-24 05:08:39,417 basehttp 4771 139970078565952 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:45,267 basehttp 4771 139970088007232 "POST /admin/shop/product/3/change/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:08:45,282 basehttp 4771 139970078565952 "GET /admin/shop/product/ HTTP/1.1" 200 14148
+INFO 2024-03-24 05:08:45,302 basehttp 4771 139970078565952 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:47,192 basehttp 4771 139970088007232 "GET /admin/shop/product/2/change/ HTTP/1.1" 200 13064
+INFO 2024-03-24 05:08:47,216 basehttp 4771 139970078565952 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:49,956 basehttp 4771 139970088007232 "POST /admin/shop/product/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:08:49,972 basehttp 4771 139970078565952 "GET /admin/shop/product/ HTTP/1.1" 200 14149
+INFO 2024-03-24 05:08:49,990 basehttp 4771 139970078565952 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:51,522 basehttp 4771 139970088007232 "GET /admin/shop/product/1/change/ HTTP/1.1" 200 13068
+INFO 2024-03-24 05:08:51,539 basehttp 4771 139970078565952 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:08:53,762 basehttp 4771 139970088007232 "POST /admin/shop/product/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:08:53,782 basehttp 4771 139970078565952 "GET /admin/shop/product/ HTTP/1.1" 200 14150
+INFO 2024-03-24 05:08:53,804 basehttp 4771 139970078565952 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:14:58,680 autoreload 5263 140523381358592 Watching for file changes with StatReloader
+INFO 2024-03-24 05:15:00,678 basehttp 5263 140523327190592 "GET / HTTP/1.1" 200 123
+WARNING 2024-03-24 05:15:00,773 log 5263 140523327190592 Not Found: /favicon.ico
+INFO 2024-03-24 05:15:09,349 basehttp 5263 140523327190592 "GET /admin/ HTTP/1.1" 200 8983
+INFO 2024-03-24 05:15:09,370 basehttp 5263 140523317749312 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-24 05:15:09,370 basehttp 5263 140523327190592 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-24 05:15:15,648 basehttp 5263 140523317749312 "GET /admin/auth/group/ HTTP/1.1" 200 8903
+INFO 2024-03-24 05:15:15,668 basehttp 5263 140523317749312 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-03-24 05:15:15,671 basehttp 5263 140523327190592 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:15:15,694 basehttp 5263 140523327190592 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-24 05:15:51,498 basehttp 5263 140523327190592 "GET /admin/auth/group/add/ HTTP/1.1" 200 14233
+INFO 2024-03-24 05:15:51,525 basehttp 5263 140523327190592 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:15:51,598 basehttp 5263 140523327190592 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-24 05:15:51,599 basehttp 5263 140523299915328 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-24 05:15:51,599 basehttp 5263 140523317749312 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-24 05:17:49,515 basehttp 5263 140523327190592 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:17:49,528 basehttp 5263 140523327190592 "GET /admin/auth/group/add/ HTTP/1.1" 200 14519
+INFO 2024-03-24 05:17:49,583 basehttp 5263 140523327190592 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:17:49,651 basehttp 5263 140523317749312 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-24 05:18:46,691 basehttp 5263 140523327190592 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:18:46,712 basehttp 5263 140523327190592 "GET /admin/auth/group/ HTTP/1.1" 200 10946
+INFO 2024-03-24 05:18:46,766 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:18:48,743 basehttp 5263 140523327190592 "GET /admin/auth/group/2/change/ HTTP/1.1" 200 14474
+INFO 2024-03-24 05:18:48,764 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:18:51,669 basehttp 5263 140523327190592 "GET /admin/auth/user/ HTTP/1.1" 200 13398
+INFO 2024-03-24 05:18:51,692 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:18:51,718 basehttp 5263 140523317749312 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-24 05:18:51,718 basehttp 5263 140523327190592 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-24 05:18:53,648 basehttp 5263 140523327190592 "GET /admin/auth/user/add/ HTTP/1.1" 200 12358
+INFO 2024-03-24 05:18:53,666 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:19:03,538 basehttp 5263 140523327190592 "POST /admin/auth/user/add/ HTTP/1.1" 200 12866
+INFO 2024-03-24 05:19:03,569 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:19:20,767 basehttp 5263 140523327190592 "POST /admin/auth/user/add/ HTTP/1.1" 200 12631
+INFO 2024-03-24 05:19:20,787 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:19:34,936 basehttp 5263 140523327190592 "POST /admin/auth/user/add/ HTTP/1.1" 200 12687
+INFO 2024-03-24 05:19:34,958 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:19:50,300 basehttp 5263 140523327190592 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:19:50,313 basehttp 5263 140523317749312 "GET /admin/auth/user/add/ HTTP/1.1" 200 12667
+INFO 2024-03-24 05:19:50,343 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:20:13,509 basehttp 5263 140523327190592 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:20:13,532 basehttp 5263 140523317749312 "GET /admin/auth/user/3/change/ HTTP/1.1" 200 25177
+INFO 2024-03-24 05:20:13,567 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:20:13,567 basehttp 5263 140523327190592 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-03-24 05:20:13,568 basehttp 5263 140523299915328 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-03-24 05:20:13,654 basehttp 5263 140523317749312 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-24 05:20:13,654 basehttp 5263 140523299915328 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-24 05:21:04,234 basehttp 5263 140523317749312 "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:21:04,256 basehttp 5263 140523317749312 "GET /admin/auth/user/ HTTP/1.1" 200 14644
+INFO 2024-03-24 05:21:04,315 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:21:04,360 basehttp 5263 140523299915328 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2024-03-24 05:21:10,205 basehttp 5263 140523317749312 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24875
+INFO 2024-03-24 05:21:10,221 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:21:27,673 basehttp 5263 140523317749312 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:21:27,696 basehttp 5263 140523317749312 "GET /admin/auth/user/ HTTP/1.1" 200 14661
+INFO 2024-03-24 05:21:27,758 basehttp 5263 140523317749312 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 05:22:57,794 basehttp 5263 140523317749312 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-03-24 05:22:59,107 basehttp 5263 140523317749312 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:22:59,116 basehttp 5263 140523317749312 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-03-24 05:23:10,434 basehttp 5263 140523299915328 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:23:10,444 basehttp 5263 140523299915328 "GET /admin/ HTTP/1.1" 200 11170
+INFO 2024-03-24 05:23:35,365 basehttp 5263 140523299915328 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-03-24 05:23:38,236 basehttp 5263 140523299915328 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-24 05:23:38,251 basehttp 5263 140523299915328 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359

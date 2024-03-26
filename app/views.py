@@ -7,7 +7,7 @@ from datetime import datetime
 def index(request):
     username = "User123"
     current_date = datetime.now()
-    return render(request, 'index.html', {'username': username, 'current_date': current_date})
+    return render(request, 'home.html', {'username': username, 'current_date': current_date})
 
 
 def about(request):

@@ -23,6 +23,7 @@ class Product(models.Model):
     image = models.ImageField(upload_to='product_images/', blank=True, null=True)
     rating = models.DecimalField(default=5.0, max_digits=3, decimal_places=2)
 
+
 class Order(models.Model):
     customer = models.ForeignKey(User, on_delete=models.CASCADE)
     products = models.ManyToManyField(Product)
